@@ -1,0 +1,1 @@
+http://fatiherikli.github.io/brainfuck-visualizer/#CgoKCgoKCgoKCgoKCgoKCgoKCgoKCiAgICAgICAgIA==
